@@ -1,14 +1,5 @@
 # FoiFitness
 
-## Projektni tim
-
-Ime i prezime | E-mail adresa (FOI) | JMBAG | Github korisničko ime
-------------  | ------------------- | ----- | ---------------------
-Tim Juić | tjuic20@student.foi.hr | 0016147091 | tjuic20-foi
-Ivo Rošić | irosic20@student.foi.hr | 0016151299 | irosic20
-Matija Kljaić | mkljaic20@student.foi.hr | 0016147637 | mkljaic20
-Matija Tomašić | mtomasic20@student.foi.hr | 0016149486 | mtomasic2
-
 ## Opis domene
 Aplikacija će primarno biti namjenjena za fitnes entuzijaste i početnike u fitnesu. Aplikacija će omogućavati generiranje te izmjenu plana treninga i kreiranje vlastitog plana treninga. Omogućiti će računanje potrebnog dnevnog unosa kalorija za korisnikov fitnes cilj te praćenje korisnikovog napretka uz grafičke prikaze istog.
 
